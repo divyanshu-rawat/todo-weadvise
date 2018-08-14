@@ -1,0 +1,32 @@
+.App {
+  margin: 5%;
+}
+
+._wid{
+  width: 20%;
+}
+
+._btn{
+  margin-top: 5px;
+}
+
+._ul{
+  margin-top: 20px;
+}
+
+._font{
+	font-size: 24px;
+}
+._left{
+	margin-left: 5px;
+}
+
+._font_check{
+	text-decoration: line-through;
+	font-size: 24px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
